@@ -8,6 +8,8 @@ I'm a discord bot developer and web developer
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YounesHr&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-# trophies [the only throphies i got in my life :(]
-[![trophy](https://github-profile-trophy.vercel.app/?username=YounesHr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Find me here
+  <a href="https://twitter.com/Younes_Hr1">
+    <img src="https://cdn.miki.bot/github/velddev/twitter.png" width="48"></img>
+  </a>
 #### And your done <3 ; check out my projects
