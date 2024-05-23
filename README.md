@@ -5,7 +5,7 @@
 * 🔭 I’m currently working on website
 * 🌱 I’m currently learning from my faults
 * 🤝 I’m looking to collaborate on nothing
-* 🤔 I’m looking for help with my mental health
+* 🤔 I’m looking for help with my mental health...
 * 💬 Ask me about anything
 * 📫 How to reach me : twitter
 * ❤️ I love dev
