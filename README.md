@@ -10,7 +10,5 @@
 * 📫 How to reach me : twitter
 * ❤️ I love dev
 * ⚡ Fun fact : Death is not terrible
-# 🦠 Most used Language
+# 🦠 Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younesdev12&layout=compact&theme=dark"/>
-# 🦠 Github Rate
-<img src="https://github-readme-stats.vercel.app/api?username=Younesdev12&show_icons=true&theme=dark"/>
